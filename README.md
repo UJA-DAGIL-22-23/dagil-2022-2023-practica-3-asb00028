@@ -1,3 +1,29 @@
+# Práctica 3
+
+### Información del Estudiante
+
+Nombre Estudiante: Andrés Serrano Barajas
+
+Correo Estudiante: asb00028@red.ujaen.es
+
+URL de Trello: https://trello.com/b/KOQyYPdx/pr%C3%A1ctica-3
+
+### Fotos para el fichero Readme.md
+
+Añadir al fichero README.md las capturas de pantalla de: tu home en Fauna, de la página en la que aparece la base de datos y de la página en la que aparece la colección. Copia y pega también todos los documentos que has creado en la colección en formato JSON.
+
+<img src="misImagenes/homefauna.png" heigth="100" width="360">
+
+<img src="misImagenes/bbddfauna.png" heigth="100" width="360">
+
+<img src="misImagenes/coleccionfauna.png" heigth="100" width="360">
+
+### Historias De Usuario
+
+- Incremento 1: Estado inicial de Trello e Historias de Usuario elegidas
+
+<img src="misImagenes/Incremento1trelloinicio.png" heigth="100" width="360">
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10405483&assignment_repo_type=AssignmentRepo)
 # *Plantilla Práctica Microservicios*: descripción de la aplicación
 
