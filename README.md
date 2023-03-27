@@ -36,6 +36,8 @@ Añadir al fichero README.md las capturas de pantalla de: tu home en Fauna, de l
 
 <img src='misImagenes/Incremento1trellofinal.png' heigth='100' width='360'>
 
+
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10405483&assignment_repo_type=AssignmentRepo)
 
 # *Plantilla Práctica Microservicios*: descripción de la aplicación
