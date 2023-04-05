@@ -12,29 +12,325 @@ URL de Trello: https://trello.com/b/KOQyYPdx/pr%C3%A1ctica-3
 
 Añadir al fichero README.md las capturas de pantalla de: tu home en Fauna, de la página en la que aparece la base de datos y de la página en la que aparece la colección. Copia y pega también todos los documentos que has creado en la colección en formato JSON.
 
-<img src='misImagenes/homefauna.png' heigth='100' width='360'>
+#### Fotos Fauna
 
-<img src='misImagenes/bbddfauna.png' heigth='100' width='360'>
+<img src='misImagenes/homefauna.PNG' heigth='100' width='360'>
 
-<img src='misImagenes/coleccionfauna.png' heigth='100' width='360'>
+<img src='misImagenes/bbddfauna.PNG' heigth='100' width='360'>
+
+<img src='misImagenes/coleccionfauna.PNG' heigth='100' width='360'>
+
+#### Documentos en formato JSON
+
+#### Documento 1
+{
+  "ref": Ref(Collection("Jugadores"), "358545058251669708"),
+  "ts": 1678194734670000,
+  "data": {
+    "Nombre": "Miguel Ángel",
+    "Apellidos": "Martínez Tajuelo",
+    "Sexo": "Masculino",
+    "Nacimiento": {
+      "Dia": 19,
+      "Mes": 4,
+      "Año": 1984
+    },
+    "Año_inicio": 2006,
+    "Direccion": {
+      "Localidad": "Andújar",
+      "Provincia": "Jaén",
+      "País": "España"
+    },
+    "Clase_deportiva": "S3",
+    "Años_jugados": [
+      2008,
+      2012,
+      2016,
+      2020
+    ]
+  }
+}
+
+#### Documento 2
+{
+  "ref": Ref(Collection("Jugadores"), "358545724797878476"),
+  "ts": 1678194699090000,
+  "data": {
+    "Nombre": "Jose Faustino",
+    "Apellidos": "Afonso Dominguez",
+    "Sexo": "Masculino",
+    "Nacimiento": {
+      "Dia": 10,
+      "Mes": 9,
+      "Año": 1991
+    },
+    "Año_inicio": 2003,
+    "Direccion": {
+      "Localidad": "Tenerife",
+      "Provincia": "Tenerife",
+      "País": "España"
+    },
+    "Clase_deportiva": "S7",
+    "Años_jugados": [
+      2013,
+      2017,
+      2019
+    ]
+  }
+}
+
+#### Documento 3
+{
+  "ref": Ref(Collection("Jugadores"), "359174380656263372"),
+  "ts": 1678794231950000,
+  "data": {
+    "Nombre": "Juan",
+    "Apellidos": "Serrano Vargas",
+    "Sexo": "Masculino",
+    "Nacimiento": {
+      "Dia": 1,
+      "Mes": 9,
+      "Año": 1990
+    },
+    "Año_inicio": 2011,
+    "Direccion": {
+      "Localidad": "Sevilla",
+      "Provincia": "Sevilla",
+      "País": "España"
+    },
+    "Clase_deportiva": "S7",
+    "Años_jugados": [
+      2012,
+      2015,
+      2018,
+      2022
+    ]
+  }
+}
+
+#### Documento 4
+{
+  "ref": Ref(Collection("Jugadores"), "359174491435172045"),
+  "ts": 1678794337610000,
+  "data": {
+    "Nombre": "Antonia",
+    "Apellidos": "Jerez Sánchez",
+    "Sexo": "Femenino",
+    "Nacimiento": {
+      "Dia": 1,
+      "Mes": 1,
+      "Año": 1981
+    },
+    "Año_inicio": 2001,
+    "Direccion": {
+      "Localidad": "Oviedo",
+      "Provincia": "Asturias",
+      "País": "España"
+    },
+    "Clase_deportiva": "S5",
+    "Años_jugados": [
+      2002,
+      205,
+      2009,
+      2012,
+      2016
+    ]
+  }
+}
+
+#### Documento 5
+{
+  "ref": Ref(Collection("Jugadores"), "359174585192546508"),
+  "ts": 1678794427020000,
+  "data": {
+    "Nombre": "David",
+    "Apellidos": "Gutiérrez ",
+    "Sexo": "Masculino",
+    "Nacimiento": {
+      "Dia": 11,
+      "Mes": 5,
+      "Año": 1980
+    },
+    "Año_inicio": 1998,
+    "Direccion": {
+      "Localidad": "Jaén",
+      "Provincia": "Jaén",
+      "País": "España"
+    },
+    "Clase_deportiva": "S1",
+    "Años_jugados": [
+      1999,
+      2001,
+      2005,
+      2007,
+      2008,
+      2010,
+      2011
+    ]
+  }
+}
+
+#### Documento 6
+{
+  "ref": Ref(Collection("Jugadores"), "359174670870642893"),
+  "ts": 1678794508730000,
+  "data": {
+    "Nombre": "María",
+    "Apellidos": "Martínez López",
+    "Sexo": "Femenino",
+    "Nacimiento": {
+      "Dia": 30,
+      "Mes": 9,
+      "Año": 1999
+    },
+    "Año_inicio": 2021,
+    "Direccion": {
+      "Localidad": "Madrid",
+      "Provincia": "Madrid",
+      "País": "España"
+    },
+    "Clase_deportiva": "S3",
+    "Años_jugados": [
+      2022,
+      2023
+    ]
+  }
+}
+
+#### Documento 7
+{
+  "ref": Ref(Collection("Jugadores"), "359174738575098060"),
+  "ts": 1678794573300000,
+  "data": {
+    "Nombre": "Ángel",
+    "Apellidos": "Barajas Ortega",
+    "Sexo": "Masculino",
+    "Nacimiento": {
+      "Dia": 2,
+      "Mes": 5,
+      "Año": 1990
+    },
+    "Año_inicio": 2012,
+    "Direccion": {
+      "Localidad": "Barcelona",
+      "Provincia": "Barcelona",
+      "País": "España"
+    },
+    "Clase_deportiva": "S6",
+    "Años_jugados": [
+      2013,
+      2015,
+      2016,
+      2020
+    ]
+  }
+}
+
+#### Documento 8
+{
+  "ref": Ref(Collection("Jugadores"), "359174832216080588"),
+  "ts": 1678794662590000,
+  "data": {
+    "Nombre": "Lucía",
+    "Apellidos": "Collado Carrasco",
+    "Sexo": "Femenino",
+    "Nacimiento": {
+      "Dia": 20,
+      "Mes": 7,
+      "Año": 1995
+    },
+    "Año_inicio": 2015,
+    "Direccion": {
+      "Localidad": "Murcia",
+      "Provincia": "Murcia",
+      "País": "España"
+    },
+    "Clase_deportiva": "S9",
+    "Años_jugados": [
+      2016,
+      2020
+    ]
+  }
+}
+
+#### Documento 9
+{
+  "ref": Ref(Collection("Jugadores"), "359174925089505485"),
+  "ts": 1678794751170000,
+  "data": {
+    "Nombre": "Luís",
+    "Apellidos": "Torres Bravo",
+    "Sexo": "Masculino",
+    "Nacimiento": {
+      "Dia": 1,
+      "Mes": 9,
+      "Año": 1981
+    },
+    "Año_inicio": 2000,
+    "Direccion": {
+      "Localidad": "Jaén",
+      "Provincia": "Jaén",
+      "País": "España"
+    },
+    "Clase_deportiva": "S1",
+    "Años_jugados": [
+      2001,
+      2003,
+      2006,
+      2009,
+      2012,
+      2016
+    ]
+  }
+}
+
+#### Documento 10
+{
+  "ref": Ref(Collection("Jugadores"), "359174999804739789"),
+  "ts": 1678794822430000,
+  "data": {
+    "Nombre": "Carlos",
+    "Apellidos": "Alonso Álvarez",
+    "Sexo": "Masculino",
+    "Nacimiento": {
+      "Dia": 30,
+      "Mes": 11,
+      "Año": 1990
+    },
+    "Año_inicio": 2009,
+    "Direccion": {
+      "Localidad": "Córdoba",
+      "Provincia": "Córdoba",
+      "País": "España"
+    },
+    "Clase_deportiva": "S1",
+    "Años_jugados": [
+      2010,
+      2012,
+      2017,
+      2020,
+      2023
+    ]
+  }
+}
 
 ### Historias De Usuario
 
 - Incremento 1: Estado inicial de Trello e Historias de Usuario elegidas
 
-<img src='misImagenes/Incremento1trelloinicio.png' heigth='100' width='360'>
+<img src='misImagenes/Incremento1trelloinicio.PNG' heigth='100' width='360'>
 
 - HU-01 terminada:
 
-<img src='misImagenes/hu-01.png' heigth='100' width='360'>
+<img src='misImagenes/hu-01.PNG' heigth='100' width='360'>
 
 - HU-02 terminada:
 
-<img src='misImagenes/hu-02.png' heigth='100' width='360'>
+<img src='misImagenes/hu-02.PNG' heigth='100' width='360'>
 
 - Incremento 1: Estado final de Trello e Historias de Usuario terminadas
 
-<img src='misImagenes/Incremento1trellofinal.png' heigth='100' width='360'>
+<img src='misImagenes/Incremento1trellofinal.PNG' heigth='100' width='360'>
 
 
 
