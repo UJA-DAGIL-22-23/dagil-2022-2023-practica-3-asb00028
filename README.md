@@ -328,6 +328,10 @@ Añadir al fichero README.md las capturas de pantalla de: tu home en Fauna, de l
 
 <img src='misImagenes/hu-02.PNG' heigth='100' width='360'>
 
+- HU-03 y HU-04 terminadas:
+
+<img src='misImagenes/hu-03-04.PNG' heigth='100' width='360'>
+
 - Incremento 1: Estado final de Trello e Historias de Usuario terminadas
 
 <img src='misImagenes/Incremento1trellofinal.PNG' heigth='100' width='360'>
